@@ -44,7 +44,7 @@ endif()
 
 include(cmake/Conan.cmake)
 include(cmake/Vcpkg.cmake)
-
+conan_basic_setup()
 #
 # Create library, setup header and source files
 #

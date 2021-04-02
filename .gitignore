@@ -11,6 +11,9 @@ CMakeFiles/*
 .vscode/launch.json
 .vscode/extensions.json
 
+### clion / cmake support
+cmake-build-debug/
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
